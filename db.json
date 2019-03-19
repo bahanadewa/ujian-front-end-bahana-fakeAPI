@@ -1,0 +1,178 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "username": "bahana",
+      "password": "rahasia123",
+      "role": "admin"
+    },
+    {
+      "username": "a",
+      "password": "a",
+      "email": "a",
+      "phone": "1",
+      "id": 2,
+      "role": "user"
+    },
+    {
+      "username": "b",
+      "password": "b",
+      "email": "b",
+      "phone": "1",
+      "id": 3
+    },
+    {
+      "username": "ddbahana@gmail.com",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "username": "irde",
+      "password": "1",
+      "email": "1",
+      "phone": "1",
+      "id": 5
+    }
+  ],
+  "products": [
+    {
+      "id": 2,
+      "nama": "under armour",
+      "harga": 50000,
+      "kategori": "under armour",
+      "discount": 20,
+      "deskripsi": "kaos polos terbaik",
+      "img": "https://id-live-03.slatic.net/p/7/baju-kaos-fitness-gym-cowok-underarmour-under-armour-pria-1517640491-33765663-7b0e968537026f040dba2eca5bce485f-zoom.jpg"
+    },
+    {
+      "id": 3,
+      "nama": "nike",
+      "harga": 60000,
+      "kategori": "nike",
+      "discount": 20,
+      "deskripsi": "kaos polos terbaik",
+      "img": "http://cdn.elevenia.co.id/g/8/3/5/6/5/4/18835654_A1.jpg"
+    },
+    {
+      "id": 4,
+      "nama": "adidas",
+      "harga": 90000,
+      "kategori": "adidas",
+      "discount": 10,
+      "deskripsi": "kaos polos terbaik",
+      "img": "https://s0.bukalapak.com/img/0971323102/w-1000/IMG_20171215_095708_scaled.jpg"
+    },
+    {
+      "id": 5,
+      "nama": "reebox",
+      "harga": 70000,
+      "kategori": "reebox",
+      "discount": 15,
+      "deskripsi": "kaos polos terbaik",
+      "img": "https://s2.bukalapak.com/img/2727045202/w-1000/IMG_20171219_223656_scaled.jpg"
+    },
+    {
+      "nama": "adidas",
+      "harga": "58000",
+      "kategori": "adidas",
+      "discount": 10,
+      "deskripsi": "baju polos",
+      "img": "https://id-test-11.slatic.net/p/0698a3ecf2e58bf5761401efc23d6995.jpg",
+      "id": 6
+    }
+  ],
+  "cart": [
+    {
+      "idUser": 1,
+      "namaUser": "bahana",
+      "product": "nike",
+      "harga": 60000,
+      "kategori": "nike",
+      "deskripsi": "kaos polos terbaik",
+      "img": "http://cdn.elevenia.co.id/g/8/3/5/6/5/4/18835654_A1.jpg",
+      "productID": 3,
+      "quantity": 1,
+      "id": 1
+    }
+  ],
+  "history": [
+    {
+      "date": "2019-03-18T16:23:49.594Z",
+      "idUser": 1,
+      "namaUser": "bahana",
+      "product": "adidas",
+      "harga": 90000,
+      "kategori": "adidas",
+      "deskripsi": "kaos polos terbaik",
+      "img": "https://s0.bukalapak.com/img/0971323102/w-1000/IMG_20171215_095708_scaled.jpg",
+      "productID": 4,
+      "quantity": 2,
+      "id": 1
+    },
+    {
+      "date": "2019-03-18T16:23:49.595Z",
+      "idUser": 1,
+      "namaUser": "bahana",
+      "product": "nike",
+      "harga": 60000,
+      "kategori": "nike",
+      "deskripsi": "kaos polos terbaik",
+      "img": "http://cdn.elevenia.co.id/g/8/3/5/6/5/4/18835654_A1.jpg",
+      "productID": 3,
+      "quantity": 2,
+      "id": 2
+    },
+    {
+      "date": "2019-03-18T16:25:04.282Z",
+      "idUser": 2,
+      "namaUser": "a",
+      "product": "nike",
+      "harga": 60000,
+      "kategori": "nike",
+      "deskripsi": "kaos polos terbaik",
+      "img": "http://cdn.elevenia.co.id/g/8/3/5/6/5/4/18835654_A1.jpg",
+      "productID": 3,
+      "quantity": 2,
+      "id": 3
+    },
+    {
+      "date": "2019-03-18T16:25:04.282Z",
+      "idUser": 2,
+      "namaUser": "a",
+      "product": "adidas",
+      "harga": 90000,
+      "kategori": "adidas",
+      "deskripsi": "kaos polos terbaik",
+      "img": "https://s0.bukalapak.com/img/0971323102/w-1000/IMG_20171215_095708_scaled.jpg",
+      "productID": 4,
+      "quantity": 2,
+      "id": 4
+    },
+    {
+      "date": "2019-03-19T02:41:56.564Z",
+      "idUser": 1,
+      "namaUser": "bahana",
+      "product": "nike",
+      "harga": 60000,
+      "kategori": "nike",
+      "deskripsi": "kaos polos terbaik",
+      "img": "http://cdn.elevenia.co.id/g/8/3/5/6/5/4/18835654_A1.jpg",
+      "productID": 3,
+      "quantity": 1,
+      "id": 5
+    },
+    {
+      "date": "2019-03-19T02:41:56.565Z",
+      "idUser": 1,
+      "namaUser": "bahana",
+      "product": "under armour",
+      "harga": 50000,
+      "kategori": "under armour",
+      "deskripsi": "kaos polos terbaik",
+      "img": "https://id-live-03.slatic.net/p/7/baju-kaos-fitness-gym-cowok-underarmour-under-armour-pria-1517640491-33765663-7b0e968537026f040dba2eca5bce485f-zoom.jpg",
+      "productID": 2,
+      "quantity": 2,
+      "id": 6
+    }
+  ]
+}
